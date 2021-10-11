@@ -1,0 +1,80 @@
+<ng-container *ngIf="estate">
+<section class="single-property-section spad">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8">
+        <div class="single-property">
+          <div class="mt-5">
+            <ngx-gallery [options]="galleryOptions" [images]="galleryImages"></ngx-gallery>
+          </div>
+          <div class="row mt-4">
+            <div class="col-lg-6">
+              <div class="property-header">
+                <h3>{{estate.street}}</h3>
+                <h5>{{estate.city}}, {{estate.zipCode}}</h5>
+                <h5>{{estate.province}}</h5>
+              </div>
+            </div>
+            <div class="col-lg-4 text-right ml-4">
+              <div class="property-header">
+                   <ng-container>
+                     <div *ngIf="estate.estateCategory ==='Rent'">
+                      <h3>{{estate.monthlyPrice | currency:'ZAR':'R'}} p/m</h3>
+                      </div>
+                   </ng-container>
+                   <ng-container>
+                     <div *ngIf="estate.estateCategory ==='Buy'">
+                      <h3>{{estate.price | currency:'ZAR':'R'}}</h3>
+                      </div>
+                   </ng-container>
+                <p>{{estate.estateBedroom}} Bedrooms {{estate.estateType}}</p>
+
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-lg-10 property-info-bar">
+              <div class="pi-metas">
+                <div class="pi-meta">{{estate.estateBedroom}} Bed </div>
+                <div class="pi-meta">{{estate.estateBathroom}} Baths</div>
+                <div class="pi-meta">{{estate.garage}} Garage</div>
+                <div class="pi-meta">{{estate.areaSize | number}} SF</div>
+                <div class="pi-meta">{{estate.estateType}}</div>
+                <div class="pi-meta">Built {{estate.yearBuilt | date}}</div>
+              </div>
+            </div>
+          </div>
+          <div class="property-text">
+            <h4>Description</h4>
+            {{estate.description}}
+          </div>
+          <div class="property-feature mt-4">
+            <div class="row">
+              <div class="col-lg-10">
+                <h4>{{estate.estateType}} Features</h4>
+                <ul class="list-inline">
+                  <li class="list-inline-item" *ngFor="let item of estate.estateFeatures">
+                    <strong>{{item.name}}</strong>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-8 sidebar">
+        <div class="agent-widget">
+          <img src="{{estate.agentImageUrl}}" alt="">
+          <div class="aw-text">
+            <h4>{{estate.agentFullName}}</h4>
+            <h6>{{estate.agentTitle}}</h6>
+            <p>{{estate.agentDescription}}</p>
+            <a href="#" class="readmore-btn">Contact the agent</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+</ng-container>
+

@@ -1,0 +1,112 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Content\images\agents\bob.png" />
+    <Content Include="Content\images\agents\john.png" />
+    <Content Include="Content\images\agents\sarah.png" />
+    <Content Include="Content\images\property\01-bathroom.jpg" />
+    <Content Include="Content\images\property\01-bedroom.jpg" />
+    <Content Include="Content\images\property\01-diningroom.jpg" />
+    <Content Include="Content\images\property\01-home.jpg" />
+    <Content Include="Content\images\property\01-kitchen.jpg" />
+    <Content Include="Content\images\property\01-livingroom.jpg" />
+    <Content Include="Content\images\property\02-bathroom.jpg" />
+    <Content Include="Content\images\property\02-bedroom.jpg" />
+    <Content Include="Content\images\property\02-home.jpg" />
+    <Content Include="Content\images\property\02-kitchen.jpg" />
+    <Content Include="Content\images\property\02-livingroom.jpg" />
+    <Content Include="Content\images\property\03-bathroom.jpg" />
+    <Content Include="Content\images\property\03-bedroom.jpg" />
+    <Content Include="Content\images\property\03-home.jpg" />
+    <Content Include="Content\images\property\03-kitchen.jpg" />
+    <Content Include="Content\images\property\03-livingroom.jpg" />
+    <Content Include="Content\images\property\04-bathroom.jpg" />
+    <Content Include="Content\images\property\04-bedroom.jpg" />
+    <Content Include="Content\images\property\04-home.jpg" />
+    <Content Include="Content\images\property\04-kitchen.jpg" />
+    <Content Include="Content\images\property\04-livingroom.jpg" />
+    <Content Include="Content\images\property\05-bathroom.jpg" />
+    <Content Include="Content\images\property\05-bedroom.jpg" />
+    <Content Include="Content\images\property\05-home.jpg" />
+    <Content Include="Content\images\property\05-kitchen.jpg" />
+    <Content Include="Content\images\property\05-livingroom.jpg" />
+    <Content Include="Content\images\property\06-bathroom.jpg" />
+    <Content Include="Content\images\property\06-bedroom.jpg" />
+    <Content Include="Content\images\property\06-home.jpg" />
+    <Content Include="Content\images\property\06-kitchen.jpg" />
+    <Content Include="Content\images\property\06-livingroom.jpg" />
+    <Content Include="Content\images\property\07-bathroom.jpg" />
+    <Content Include="Content\images\property\07-bedroom.jpg" />
+    <Content Include="Content\images\property\07-home.jpg" />
+    <Content Include="Content\images\property\07-livingroom.jpg" />
+    <Content Include="Content\images\property\08-bathroom.jpg" />
+    <Content Include="Content\images\property\08-bedroom.jpg" />
+    <Content Include="Content\images\property\08-home.jpg" />
+    <Content Include="Content\images\property\08-kitchen.jpg" />
+    <Content Include="Content\images\property\08-livingroom.jpg" />
+    <Content Include="Content\images\property\09-bathroom.jpg" />
+    <Content Include="Content\images\property\09-bedroom.jpg" />
+    <Content Include="Content\images\property\09-home.jpg" />
+    <Content Include="Content\images\property\09-livingroom.jpg" />
+    <Content Include="Content\images\property\10-bathroom.jpg" />
+    <Content Include="Content\images\property\10-bedroom.jpg" />
+    <Content Include="Content\images\property\10-home.jpg" />
+    <Content Include="Content\images\property\10-kitchen.jpg" />
+    <Content Include="Content\images\property\10-livingroom.jpg" />
+    <Content Include="Content\images\property\11-bathroom.jpg" />
+    <Content Include="Content\images\property\11-bedroom.jpg" />
+    <Content Include="Content\images\property\11-home.jpg" />
+    <Content Include="Content\images\property\11-kitchen.jpg" />
+    <Content Include="Content\images\property\11-livingroom.jpg" />
+    <Content Include="Content\images\property\12-bathroom.jpg" />
+    <Content Include="Content\images\property\12-bedroom.jpg" />
+    <Content Include="Content\images\property\12-home.jpg" />
+    <Content Include="Content\images\property\12-kitchen.jpg" />
+    <Content Include="Content\images\property\12-livingroom.jpg" />
+    <Content Include="Content\images\property\13-bedroom.jpg" />
+    <Content Include="Content\images\property\13-home.jpg" />
+    <Content Include="Content\images\property\13-kitchen.jpg" />
+    <Content Include="Content\images\property\13-livingroom.jpg" />
+    <Content Include="Content\images\property\14-bedroom.jpg" />
+    <Content Include="Content\images\property\14-kitchen.jpg" />
+    <Content Include="Content\images\property\14-livingroom.jpg" />
+    <Content Include="Content\images\property\15-bedroom.jpg" />
+    <Content Include="Content\images\property\15-kitchen.jpg" />
+    <Content Include="Content\images\property\15-livingroom.jpg" />
+    <Content Include="Content\images\property\16-bedroom.jpg" />
+    <Content Include="Content\images\property\16-kitchen.jpg" />
+    <Content Include="Content\images\property\16-livingroom.jpg" />
+    <Content Include="Content\images\property\17-bedroom.jpg" />
+    <Content Include="Content\images\property\17-kitchen.jpg" />
+    <Content Include="Content\images\property\17-livingroom.jpg" />
+    <Content Include="Content\images\property\18-livingroom.jpg" />
+    <Content Include="Content\images\property\19-livingroom.jpg" />
+    <Content Include="Content\images\property\20-livingroom.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="5.4.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="5.4.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Infrastructure\Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+
+</Project>

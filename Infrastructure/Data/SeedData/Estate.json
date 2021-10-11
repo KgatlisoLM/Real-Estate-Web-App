@@ -1,0 +1,719 @@
+[
+  {
+    "Garage": 1,
+    "GarageSize": 250,
+    "YearBuilt": "2015-07-05",
+    "AreaSize": 1200,
+    "Description": "Donec eget efficitur ex. Donec eget dolor vitae eros feugiat tristique id vitae massa. Proin vulputate congue rutrum. Fusce lobortis a enim eget tempus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Ut gravida mattis magna, non varius lorem sodales nec. In libero orci, ornare non nisl a, auctor euismod purus. Morbi pretium interdum vestibulum. Fusce nec eleifend ipsum. Sed non blandit tellus",
+    "DateAdded": "2019-06-24",
+    "EstateBathroomsId": 1,
+    "EstateBedroomsId": 1,
+    "EstateAddressId": 1,
+    "FeaturedPriceId": 1,
+    "EstateTypeId": 1,
+    "EstateCategoryId": 1,
+    "EstateAgentId": 1,
+    "EstatePhotos": [
+      {
+        "ImageUrl": "images/property/01-home.jpg",
+        "isMain": true
+      },
+      {
+        "ImageUrl": "images/property/05-bedroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/08-kitchen.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/16-bedroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/07-bathroom.jpg",
+        "isMain": false
+      }
+    ]
+  },
+  {
+    "Garage": 0,
+    "GarageSize": 0,
+    "YearBuilt": "2014-02-24",
+    "AreaSize": 800,
+    "Description": "Donec eget efficitur ex. Donec eget dolor vitae eros feugiat tristique id vitae massa. Proin vulputate congue rutrum. Fusce lobortis a enim eget tempus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Ut gravida mattis magna, non varius lorem sodales nec. In libero orci, ornare non nisl a, auctor euismod purus. Morbi pretium interdum vestibulum. Fusce nec eleifend ipsum. Sed non blandit tellus",
+    "DateAdded": "2018-05-12",
+    "EstateBathroomsId": 1,
+    "EstateBedroomsId": 2,
+    "EstateAddressId": 2,
+    "FeaturedPriceId": 2,
+    "EstateTypeId": 3,
+    "EstateCategoryId": 2,
+    "EstateAgentId": 1,
+    "EstatePhotos": [
+      {
+        "ImageUrl": "images/property/04-kitchen.jpg",
+        "isMain": true
+      },
+      {
+        "ImageUrl": "images/property/12-bathroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/02-home.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/11-livingroom.jpg",
+        "isMain": false
+      }
+    ]
+  },
+  {
+    "Garage": 1,
+    "GarageSize": 400,
+    "YearBuilt": "2014-03-14",
+    "AreaSize": 1800,
+    "Description": "Donec eget efficitur ex. Donec eget dolor vitae eros feugiat tristique id vitae massa. Proin vulputate congue rutrum. Fusce lobortis a enim eget tempus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Ut gravida mattis magna, non varius lorem sodales nec. In libero orci, ornare non nisl a, auctor euismod purus. Morbi pretium interdum vestibulum. Fusce nec eleifend ipsum. Sed non blandit tellus",
+    "DateAdded": "2019-08-28",
+    "EstateBathroomsId": 4,
+    "EstateBedroomsId": 2,
+    "EstateAddressId": 3,
+    "FeaturedPriceId": 3,
+    "EstateTypeId": 2,
+    "EstateCategoryId": 1,
+    "EstateAgentId": 1,
+    "EstatePhotos": [
+      {
+        "ImageUrl": "images/property/06-home.jpg",
+        "isMain": true
+      },
+      {
+        "ImageUrl": "images/property/13-kitchen.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/11-bathroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/16-livingroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/08-bedroom.jpg",
+        "isMain": false
+      }
+    ]
+  },
+  {
+    "Garage": 1,
+    "GarageSize": 320,
+    "YearBuilt": "2015-04-29",
+    "AreaSize": 1350,
+    "Description": "Donec eget efficitur ex. Donec eget dolor vitae eros feugiat tristique id vitae massa. Proin vulputate congue rutrum. Fusce lobortis a enim eget tempus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Ut gravida mattis magna, non varius lorem sodales nec. In libero orci, ornare non nisl a, auctor euismod purus. Morbi pretium interdum vestibulum. Fusce nec eleifend ipsum. Sed non blandit tellus",
+    "DateAdded": "2018-01-20",
+    "EstateBathroomsId": 2,
+    "EstateBedroomsId": 3,
+    "EstateAddressId": 4,
+    "FeaturedPriceId": 4,
+    "EstateTypeId": 3,
+    "EstateCategoryId": 1,
+    "EstateAgentId": 2,
+    "EstatePhotos": [
+      {
+        "ImageUrl": "images/property/02-home.jpg",
+        "isMain": true
+      },
+      {
+        "ImageUrl": "images/property/18-livingroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/01-home.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/13-bedroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/12-bedroom.jpg",
+        "isMain": false
+      }
+    ]
+  },
+  {
+    "Garage": 0,
+    "GarageSize": 0,
+    "YearBuilt": "2016-09-27",
+    "AreaSize": 700,
+    "Description": "Donec eget efficitur ex. Donec eget dolor vitae eros feugiat tristique id vitae massa. Proin vulputate congue rutrum. Fusce lobortis a enim eget tempus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Ut gravida mattis magna, non varius lorem sodales nec. In libero orci, ornare non nisl a, auctor euismod purus. Morbi pretium interdum vestibulum. Fusce nec eleifend ipsum. Sed non blandit tellus",
+    "DateAdded": "2020-05-22",
+    "EstateBathroomsId": 1,
+    "EstateBedroomsId": 2,
+    "EstateAddressId": 5,
+    "FeaturedPriceId": 5,
+    "EstateTypeId": 1,
+    "EstateCategoryId": 2,
+    "EstateAgentId": 2,
+    "EstatePhotos": [
+      {
+        "ImageUrl": "images/property/08-home.jpg",
+        "isMain": true
+      },
+      {
+        "ImageUrl": "images/property/19-livingroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/17-bedroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/04-bathroom.jpg",
+        "isMain": false
+      }
+
+    ]
+  },
+  {
+    "Garage": 2,
+    "GarageSize": 500,
+    "YearBuilt": "2015-12-15",
+    "AreaSize": 2200,
+    "Description": "Donec eget efficitur ex. Donec eget dolor vitae eros feugiat tristique id vitae massa. Proin vulputate congue rutrum. Fusce lobortis a enim eget tempus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Ut gravida mattis magna, non varius lorem sodales nec. In libero orci, ornare non nisl a, auctor euismod purus. Morbi pretium interdum vestibulum. Fusce nec eleifend ipsum. Sed non blandit tellus",
+    "DateAdded": "2019-02-20",
+    "EstateBathroomsId": 3,
+    "EstateBedroomsId": 5,
+    "EstateAddressId": 6,
+    "FeaturedPriceId": 6,
+    "EstateTypeId": 2,
+    "EstateCategoryId": 1,
+    "EstateAgentId": 2,
+    "EstatePhotos": [
+      {
+        "ImageUrl": "images/property/03-home.jpg",
+        "isMain": true
+      },
+      {
+        "ImageUrl": "images/property/02-kitchen.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/08-livingroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/06-bedroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/05-bathroom.jpg",
+        "isMain": false
+      }
+    ]
+  },
+  {
+    "Garage": 1,
+    "GarageSize": 300,
+    "YearBuilt": "2018-05-28",
+    "AreaSize": 1400,
+    "Description": "Donec eget efficitur ex. Donec eget dolor vitae eros feugiat tristique id vitae massa. Proin vulputate congue rutrum. Fusce lobortis a enim eget tempus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Ut gravida mattis magna, non varius lorem sodales nec. In libero orci, ornare non nisl a, auctor euismod purus. Morbi pretium interdum vestibulum. Fusce nec eleifend ipsum. Sed non blandit tellus",
+    "DateAdded": "2019-08-25",
+    "EstateBathroomsId": 2,
+    "EstateBedroomsId": 4,
+    "EstateAddressId": 7,
+    "FeaturedPriceId": 7,
+    "EstateTypeId": 3,
+    "EstateCategoryId": 2,
+    "EstateAgentId": 2,
+    "EstatePhotos": [
+      {
+        "ImageUrl": "images/property/09-home.jpg",
+        "isMain": true
+      },
+      {
+        "ImageUrl": "images/property/14-kitchen.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/09-bedroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/05-livingroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/17-bedroom.jpg",
+        "isMain": false
+      }
+    ]
+  },
+  {
+    "Garage": 1,
+    "GarageSize": 350,
+    "YearBuilt": "2017-07-27",
+    "AreaSize": 1500,
+    "Description": "Donec eget efficitur ex. Donec eget dolor vitae eros feugiat tristique id vitae massa. Proin vulputate congue rutrum. Fusce lobortis a enim eget tempus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Ut gravida mattis magna, non varius lorem sodales nec. In libero orci, ornare non nisl a, auctor euismod purus. Morbi pretium interdum vestibulum. Fusce nec eleifend ipsum. Sed non blandit tellus",
+    "DateAdded": "2019-05-22",
+    "EstateBathroomsId": 3,
+    "EstateBedroomsId": 4,
+    "EstateAddressId": 8,
+    "FeaturedPriceId": 8,
+    "EstateTypeId": 3,
+    "EstateCategoryId": 1,
+    "EstateAgentId": 3,
+    "EstatePhotos": [
+      {
+        "ImageUrl": "images/property/13-home.jpg",
+        "isMain": true
+      },
+      {
+        "ImageUrl": "images/property/15-bedroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/09-livingroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/07-bathroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/04-bedroom.jpg",
+        "isMain": false
+      }
+    ]
+  },
+  {
+    "Garage": 1,
+    "GarageSize": 150,
+    "YearBuilt": "2018-02-24",
+    "AreaSize": 900,
+    "Description": "Donec eget efficitur ex. Donec eget dolor vitae eros feugiat tristique id vitae massa. Proin vulputate congue rutrum. Fusce lobortis a enim eget tempus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Ut gravida mattis magna, non varius lorem sodales nec. In libero orci, ornare non nisl a, auctor euismod purus. Morbi pretium interdum vestibulum. Fusce nec eleifend ipsum. Sed non blandit tellus",
+    "DateAdded": "2020-01-22",
+    "EstateBathroomsId": 1,
+    "EstateBedroomsId": 2,
+    "EstateAddressId": 9,
+    "FeaturedPriceId": 9,
+    "EstateTypeId": 1,
+    "EstateCategoryId": 2,
+    "EstateAgentId": 3,
+    "EstatePhotos": [
+      {
+        "ImageUrl": "images/property/08-home.jpg",
+        "isMain": true
+      },
+      {
+        "ImageUrl": "images/property/19-livingroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/06-bedroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/11-kitchen.jpg",
+        "isMain": false
+      }
+    ]
+  },
+  {
+    "Garage": 1,
+    "GarageSize": 550,
+    "YearBuilt": "2018-02-24",
+    "AreaSize": 2500,
+    "Description": "Donec eget efficitur ex. Donec eget dolor vitae eros feugiat tristique id vitae massa. Proin vulputate congue rutrum. Fusce lobortis a enim eget tempus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Ut gravida mattis magna, non varius lorem sodales nec. In libero orci, ornare non nisl a, auctor euismod purus. Morbi pretium interdum vestibulum. Fusce nec eleifend ipsum. Sed non blandit tellus",
+    "DateAdded": "2019-05-22",
+    "EstateBathroomsId": 3,
+    "EstateBedroomsId": 5,
+    "EstateAddressId": 10,
+    "FeaturedPriceId": 10,
+    "EstateTypeId": 3,
+    "EstateCategoryId": 1,
+    "EstateAgentId": 3,
+    "EstatePhotos": [
+      {
+        "ImageUrl": "images/property/12-home.jpg",
+        "isMain": true
+      },
+      {
+        "ImageUrl": "images/property/17-bedroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/01-diningroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/12-kitchen.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/09-bedroom.jpg",
+        "isMain": false
+      }
+    ]
+  },
+  {
+    "Garage": 1,
+    "GarageSize": 250,
+    "YearBuilt": "2019-11-20",
+    "AreaSize": 1500,
+    "Description": "Donec eget efficitur ex. Donec eget dolor vitae eros feugiat tristique id vitae massa. Proin vulputate congue rutrum. Fusce lobortis a enim eget tempus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Ut gravida mattis magna, non varius lorem sodales nec. In libero orci, ornare non nisl a, auctor euismod purus. Morbi pretium interdum vestibulum. Fusce nec eleifend ipsum. Sed non blandit tellus",
+    "DateAdded": "2020-03-22",
+    "EstateBathroomsId": 2,
+    "EstateBedroomsId": 3,
+    "EstateAddressId": 11,
+    "FeaturedPriceId": 11,
+    "EstateTypeId": 1,
+    "EstateCategoryId": 1,
+    "EstateAgentId": 2,
+    "EstatePhotos": [
+      {
+        "ImageUrl": "images/property/02-bedroom.jpg",
+        "isMain": true
+      },
+      {
+        "ImageUrl": "images/property/02-home.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/03-kitchen.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/01-bedroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/01-bathroom.jpg",
+        "isMain": false
+      }
+    ]
+  },
+  {
+    "Garage": 1,
+    "GarageSize": 250,
+    "YearBuilt": "2019-04-25",
+    "AreaSize": 950,
+    "Description": "Donec eget efficitur ex. Donec eget dolor vitae eros feugiat tristique id vitae massa. Proin vulputate congue rutrum. Fusce lobortis a enim eget tempus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Ut gravida mattis magna, non varius lorem sodales nec. In libero orci, ornare non nisl a, auctor euismod purus. Morbi pretium interdum vestibulum. Fusce nec eleifend ipsum. Sed non blandit tellus",
+    "DateAdded": "2020-04-22",
+    "EstateBathroomsId": 1,
+    "EstateBedroomsId": 2,
+    "EstateAddressId": 12,
+    "FeaturedPriceId": 12,
+    "EstateTypeId": 1,
+    "EstateCategoryId": 2,
+    "EstateAgentId": 1,
+    "EstatePhotos": [
+      {
+        "ImageUrl": "images/property/02-home.jpg",
+        "isMain": true
+      },
+      {
+        "ImageUrl": "images/property/04-kitchen.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/07-bathroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/09-livingroom.jpg",
+        "isMain": false
+      }
+    ]
+  },
+  {
+    "Garage": 1,
+    "GarageSize": 330,
+    "YearBuilt": "2019-02-28",
+    "AreaSize": 1300,
+    "Description": "Donec eget efficitur ex. Donec eget dolor vitae eros feugiat tristique id vitae massa. Proin vulputate congue rutrum. Fusce lobortis a enim eget tempus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Ut gravida mattis magna, non varius lorem sodales nec. In libero orci, ornare non nisl a, auctor euismod purus. Morbi pretium interdum vestibulum. Fusce nec eleifend ipsum. Sed non blandit tellus",
+    "DateAdded": "2019-07-22",
+    "EstateBathroomsId": 2,
+    "EstateBedroomsId": 3,
+    "EstateAddressId": 13,
+    "FeaturedPriceId": 13,
+    "EstateTypeId": 1,
+    "EstateCategoryId": 2,
+    "EstateAgentId": 1,
+    "EstatePhotos": [
+      {
+        "ImageUrl": "images/property/11-home.jpg",
+        "isMain": true
+      },
+      {
+        "ImageUrl": "images/property/11-bedroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/13-livingroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/04-bedroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/06-kitchen.jpg",
+        "isMain": false
+      }
+    ]
+  },
+  {
+    "Garage": 1,
+    "GarageSize": 150,
+    "YearBuilt": "2015-01-28",
+    "AreaSize": 900,
+    "Description": "Donec eget efficitur ex. Donec eget dolor vitae eros feugiat tristique id vitae massa. Proin vulputate congue rutrum. Fusce lobortis a enim eget tempus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Ut gravida mattis magna, non varius lorem sodales nec. In libero orci, ornare non nisl a, auctor euismod purus. Morbi pretium interdum vestibulum. Fusce nec eleifend ipsum. Sed non blandit tellus",
+    "DateAdded": "2019-10-22",
+    "EstateBathroomsId": 1,
+    "EstateBedroomsId": 2,
+    "EstateAddressId": 14,
+    "FeaturedPriceId": 14,
+    "EstateTypeId": 1,
+    "EstateCategoryId": 2,
+    "EstateAgentId": 3,
+    "EstatePhotos": [
+      {
+        "ImageUrl": "images/property/08-home.jpg",
+        "isMain": true
+      },
+      {
+        "ImageUrl": "images/property/07-bathroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/18-livingroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/04-kitchen.jpg",
+        "isMain": false
+      }
+    ]
+  },
+  {
+    "Garage": 2,
+    "GarageSize": 500,
+    "YearBuilt": "2017-05-28",
+    "AreaSize": 2300,
+    "Description": "Donec eget efficitur ex. Donec eget dolor vitae eros feugiat tristique id vitae massa. Proin vulputate congue rutrum. Fusce lobortis a enim eget tempus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Ut gravida mattis magna, non varius lorem sodales nec. In libero orci, ornare non nisl a, auctor euismod purus. Morbi pretium interdum vestibulum. Fusce nec eleifend ipsum. Sed non blandit tellus",
+    "DateAdded": "2018-03-20",
+    "EstateBathroomsId": 3,
+    "EstateBedroomsId": 5,
+    "EstateAddressId": 15,
+    "FeaturedPriceId": 15,
+    "EstateTypeId": 3,
+    "EstateCategoryId": 1,
+    "EstateAgentId": 2,
+    "EstatePhotos": [
+      {
+        "ImageUrl": "images/property/10-home.jpg",
+        "isMain": true
+      },
+      {
+        "ImageUrl": "images/property/13-bedroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/17-bedroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/08-bathroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/04-bedroom.jpg",
+        "isMain": false
+      }
+    ]
+  },
+  {
+    "Garage": 1,
+    "GarageSize": 250,
+    "YearBuilt": "2018-02-24",
+    "AreaSize": 1500,
+    "Description": "Donec eget efficitur ex. Donec eget dolor vitae eros feugiat tristique id vitae massa. Proin vulputate congue rutrum. Fusce lobortis a enim eget tempus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Ut gravida mattis magna, non varius lorem sodales nec. In libero orci, ornare non nisl a, auctor euismod purus. Morbi pretium interdum vestibulum. Fusce nec eleifend ipsum. Sed non blandit tellus",
+    "DateAdded": "2019-03-22",
+    "EstateBathroomsId": 2,
+    "EstateBedroomsId": 3,
+    "EstateAddressId": 16,
+    "FeaturedPriceId": 16,
+    "EstateTypeId": 2,
+    "EstateCategoryId": 1,
+    "EstateAgentId": 3,
+    "EstatePhotos": [
+      {
+        "ImageUrl": "images/property/06-livingroom.jpg",
+        "isMain": true
+      },
+      {
+        "ImageUrl": "images/property/09-home.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/10-kitchen.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/16-bedroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/08-bathroom.jpg",
+        "isMain": false
+      }
+    ]
+  },
+  {
+    "Garage": 1,
+    "GarageSize": 150,
+    "YearBuilt": "2016-12-14",
+    "AreaSize": 1200,
+    "Description": "Donec eget efficitur ex. Donec eget dolor vitae eros feugiat tristique id vitae massa. Proin vulputate congue rutrum. Fusce lobortis a enim eget tempus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Ut gravida mattis magna, non varius lorem sodales nec. In libero orci, ornare non nisl a, auctor euismod purus. Morbi pretium interdum vestibulum. Fusce nec eleifend ipsum. Sed non blandit tellus",
+    "DateAdded": "2019-02-20",
+    "EstateBathroomsId": 1,
+    "EstateBedroomsId": 2,
+    "EstateAddressId": 17,
+    "FeaturedPriceId": 17,
+    "EstateTypeId": 1,
+    "EstateCategoryId": 2,
+    "EstateAgentId": 1,
+    "EstatePhotos": [
+      {
+        "ImageUrl": "images/property/08-home.jpg",
+        "isMain": true
+      },
+      {
+        "ImageUrl": "images/property/07-bathroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/18-livingroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/04-kitchen.jpg",
+        "isMain": false
+      }
+    ]
+  },
+  {
+    "Garage": 1,
+    "GarageSize": 350,
+    "YearBuilt": "2019-03-23",
+    "AreaSize": 1600,
+    "Description": "Donec eget efficitur ex. Donec eget dolor vitae eros feugiat tristique id vitae massa. Proin vulputate congue rutrum. Fusce lobortis a enim eget tempus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Ut gravida mattis magna, non varius lorem sodales nec. In libero orci, ornare non nisl a, auctor euismod purus. Morbi pretium interdum vestibulum. Fusce nec eleifend ipsum. Sed non blandit tellus",
+    "DateAdded": "2019-05-22",
+    "EstateBathroomsId": 2,
+    "EstateBedroomsId": 4,
+    "EstateAddressId": 18,
+    "FeaturedPriceId": 18,
+    "EstateTypeId": 3,
+    "EstateCategoryId": 1,
+    "EstateAgentId": 2,
+    "EstatePhotos": [
+      {
+        "ImageUrl": "images/property/07-home.jpg",
+        "isMain": true
+      },
+      {
+        "ImageUrl": "images/property/03-kitchen.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/01-livingroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/11-bedroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/13-bedroom.jpg",
+        "isMain": false
+      }
+    ]
+  },
+  {
+    "Garage": 1,
+    "GarageSize": 280,
+    "YearBuilt": "2018-02-14",
+    "AreaSize": 1520,
+    "Description": "Donec eget efficitur ex. Donec eget dolor vitae eros feugiat tristique id vitae massa. Proin vulputate congue rutrum. Fusce lobortis a enim eget tempus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Ut gravida mattis magna, non varius lorem sodales nec. In libero orci, ornare non nisl a, auctor euismod purus. Morbi pretium interdum vestibulum. Fusce nec eleifend ipsum. Sed non blandit tellus",
+    "DateAdded": "2019-06-21",
+    "EstateBathroomsId": 2,
+    "EstateBedroomsId": 3,
+    "EstateAddressId": 19,
+    "FeaturedPriceId": 19,
+    "EstateTypeId": 1,
+    "EstateCategoryId": 2,
+    "EstateAgentId": 3,
+    "EstatePhotos": [
+      {
+        "ImageUrl": "images/property/11-home.jpg",
+        "isMain": true
+      },
+      {
+        "ImageUrl": "images/property/17-kitchen.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/08-bathroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/05-bedroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/10=bedroom.jpg",
+        "isMain": false
+      }
+    ]
+  },
+  {
+    "Garage": 1,
+    "GarageSize": 250,
+    "YearBuilt": "2019-02-24",
+    "AreaSize": 1520,
+    "Description": "Donec eget efficitur ex. Donec eget dolor vitae eros feugiat tristique id vitae massa. Proin vulputate congue rutrum. Fusce lobortis a enim eget tempus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Ut gravida mattis magna, non varius lorem sodales nec. In libero orci, ornare non nisl a, auctor euismod purus. Morbi pretium interdum vestibulum. Fusce nec eleifend ipsum. Sed non blandit tellus",
+    "DateAdded": "2020-03-21",
+    "EstateBathroomsId": 1,
+    "EstateBedroomsId": 3,
+    "EstateAddressId": 20,
+    "FeaturedPriceId": 20,
+    "EstateTypeId": 3,
+    "EstateCategoryId": 1,
+    "EstateAgentId": 2,
+    "EstatePhotos": [
+      {
+        "ImageUrl": "images/property/04-home.jpg",
+        "isMain": true
+      },
+      {
+        "ImageUrl": "images/property/14-livingroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/04-bathroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/19-livingroom.jpg",
+        "isMain": false
+      },
+      {
+        "ImageUrl": "images/property/01-bedroom.jpg",
+        "isMain": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+
+<div class="property-item">
+  <ng-container class="container">
+      <img class="pi-pic set-bg" routerLink="/{{estate.id}}" src="{{estate.imageUrl}}">
+       <div [ngClass]="{'bg-danger': estate.estateCategory === 'Rent',
+                        'bg-primary': estate.estateCategory === 'Buy'}"
+       class="label top-left ml-3 mt-3">
+       {{estate.estateCategory}}
+      </div>
+  </ng-container>
+     <div class="pi-text">
+       <ng-container >
+       <div class="pt-price" *ngIf="estate.estateCategory ==='Rent'">
+        {{estate.monthlyPrice | currency:'ZAR':'R'}} p/m</div>
+       </ng-container>
+       <ng-container>
+         <div class="pt-price" *ngIf="estate.estateCategory ==='Buy'">
+           {{estate.price | currency:'ZAR':'R'}}</div>
+       </ng-container>
+        <h5><a>{{estate.city}}, {{estate.estateType}}</a></h5>
+        <h6>{{estate.dateAdded | date}}</h6>
+        <p><span class="fa fa-map-marker"> {{estate.street}} {{estate.city}} {{estate.zipCode}} {{estate.province}} </span></p>
+      <ul>
+        <li><i class="fa fa-object-group"></i>{{estate.areaSize | number}}</li>
+        <li><i class="fa fa-bathtub"></i>{{estate.estateBathroom}}</li>
+        <li><i class="fa fa-bed"></i>{{estate.estateBedroom}}</li>
+        <li><i class="fa fa-automobile"></i>{{estate.garage}}</li>
+    </ul>
+  </div>
+</div>
+

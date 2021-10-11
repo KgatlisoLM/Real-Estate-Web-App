@@ -1,0 +1,30 @@
+[
+  {
+
+    "FullName": "John Doe",
+    "Title": "Real Estate Agent",
+    "Description": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam.",
+    "ImageUrl": "images/agents/john.png",
+    "EstateCategoryId": 1
+
+  },
+  {
+
+    "FullName": "Bob Bobbity",
+    "Title": "Real Estate Agent",
+    "Description": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam.",
+    "ImageUrl": "images/agents/bob.png",
+    "EstateCategoryId": 1
+
+  },
+  {
+
+    "FullName": "Sarah Moore",
+    "Title": "Real Estate Agent",
+    "Description": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam.",
+    "ImageUrl": "images/agents/sarah.png",
+    "EstateCategoryId": 1
+
+  }
+
+]

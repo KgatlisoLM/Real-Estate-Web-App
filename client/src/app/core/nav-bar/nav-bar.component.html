@@ -1,0 +1,45 @@
+<div class="site-wrap">
+   <div class="border-bottom bg-white top-bar">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-6 col-md-6">
+            <p class="mb-0">
+              <a href="#" class="mr-3"><span class="text-dark fa fa-phone"></span> <span
+                  class="d-none d-md-inline-block ml-2 text-dark">(011) 945 1224</span></a>
+              <a href="#"><span class="text-dark fa fa-envelope"></span> <span
+                  class="d-none d-md-inline-block ml-2 text-dark">info@domain.com</span></a>
+            </p>
+          </div>
+          <div class="col-6 col-md-6 text-right">
+            <a href="#" class="mr-3"><span class="text-dark fa fa-facebook"></span></a>
+            <a href="#" class="mr-3"><span class="text-dark fa fa-twitter"></span></a>
+            <a href="#" class="mr-"><span class="text-dark fa fa-linkedin"></span></a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="site-navbar shadow-sm">
+      <div class="container py-1">
+        <div class="row align-items-center">
+          <div class="col-8 col-md-8 col-lg-4">
+            <h1 class=""><a routerLink='' class="h5 text-uppercase text-dark"><strong><i class="fa fa-home"></i> real estate</strong></a></h1>
+          </div>
+          <div class="col-4 col-md-4 col-lg-8">
+            <nav class="site-navigation text-right text-md-right" role="navigation">
+
+              <div class="d-inline-block d-lg-none ml-md-0 mr-auto py-3"><a href="#"
+                  class="site-menu-toggle js-menu-toggle text-black"><span class="icon-menu h3"></span></a></div>
+
+              <ul class="site-menu js-clone-nav d-none d-lg-block">
+                  <li><a [routerLink]="['/']"
+                         routerLinkActive="active"
+                         [routerLinkActiveOptions]="{exact: true}">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

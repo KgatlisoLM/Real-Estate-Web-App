@@ -1,0 +1,153 @@
+.property-item {
+  margin-bottom: 40px;
+}
+
+.property-item .pi-pic {
+  height: 240px;
+  width: 350px;
+  position: relative;
+  margin-bottom: 25px;
+  cursor: pointer;
+}
+
+.property-item .pi-pic .label {
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 3px 10px 2px;
+  display: inline-block;
+  background: #0166D0;
+  color: #ffffff;
+  position: absolute;
+  left: 20px;
+  top: 20px;
+
+}
+
+.label{
+   font-size: 12px;
+   font-weight: 600;
+   text-transform: uppercase;
+   padding: 3px 10px 2px;
+   display: inline-block;
+   background: #0166D0;
+   color: #ffffff;
+   margin-top: 40px;
+}
+
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+.property-item .pi-pic .label.c-red {
+  background: #D41800;
+}
+
+.property-item .pi-pic .label.c-magenta {
+  background: #103230;
+}
+
+.property-item .pi-text {
+  position: relative;
+}
+
+.property-item .pi-text .heart-icon {
+  position: absolute;
+  right: 0;
+  top: 0;
+  content: "";
+  font-family: "ElegantIcons";
+  font-size: 18px;
+  color: #00C89E;
+}
+
+.property-item .pi-text .pt-price {
+  font-size: 18px;
+  font-weight: 700;
+  color: #00C89E;
+  margin-bottom: 10px;
+}
+
+.property-item .pi-text .pt-price span {
+  font-size: 14px;
+  color: #666666;
+  font-weight: 400;
+}
+
+.property-item .pi-text h5 {
+  margin-bottom: 6px;
+}
+
+.property-item .pi-text h5 a {
+  font-size: 20px;
+  font-weight: 700;
+  color: #111111;
+  font-family: "Montserrat", sans-serif;
+}
+
+.property-item .pi-text p {
+  font-weight: 500;
+}
+
+.property-item .pi-text p span {
+  color: #00C89E;
+}
+
+.property-item .pi-text ul {
+  padding-bottom: 20px;
+  border-bottom: 1px solid #e1e1e1;
+}
+
+.property-item .pi-text ul li {
+  font-size: 15px;
+  color: #111111;
+  font-weight: 600;
+  list-style: none;
+  display: inline-block;
+  margin-right: 45px;
+}
+
+.property-item .pi-text ul li:last-child {
+  margin-right: 0;
+}
+
+.property-item .pi-text ul li i {
+  font-size: 14px;
+  color: #666666;
+  margin-right: 5px;
+}
+
+.property-item .pi-text .pi-agent .pa-item {
+  overflow: hidden;
+  padding-top: 10px;
+}
+
+.property-item .pi-text .pi-agent .pa-item .pa-info {
+  float: left;
+}
+
+.property-item .pi-text .pi-agent .pa-item .pa-info img {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.property-item .pi-text .pi-agent .pa-item .pa-info h6 {
+  font-size: 14px;
+  color: #111111;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  display: inline-block;
+}
+
+.property-item .pi-text .pi-agent .pa-item .pa-text {
+  font-size: 14px;
+  color: #00C89E;
+  font-weight: 600;
+  float: right;
+  line-height: 30px;
+}
