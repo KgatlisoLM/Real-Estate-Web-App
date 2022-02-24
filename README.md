@@ -41,3 +41,6 @@
  once its done 
  
  copy paste code:- dotnet watch run 
+![re00](https://user-images.githubusercontent.com/39485154/155524369-3857b32a-52fc-4062-b043-eaa9ecab74af.PNG)
+
+![re01](https://user-images.githubusercontent.com/39485154/155524462-d2d779f0-abe3-46dd-a011-6cbcf5692b2e.PNG)
